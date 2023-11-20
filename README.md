@@ -4,6 +4,8 @@ https://currencies-31i1.vercel.app/
 
 App Overview:
 The application I have built is a React-based cryptocurrency information platform. It allows users to view real-time data on the top 15 cryptocurrencies in the market, including their prices and additional information.
+![1](https://github.com/abdulnasir97/DigiCurrencies-Learning-Project/assets/120065583/58b7183a-a37b-4e52-b680-f508c37fc69e)
+
 
 Key Features:
 Real-time Cryptocurrency Data: The app provides up-to-date information on the top 15 cryptocurrencies, allowing users to track their prices and other relevant details.
@@ -11,6 +13,9 @@ Real-time Cryptocurrency Data: The app provides up-to-date information on the to
 React Routing: The application uses the React Router library to implement navigation between different views. 
 
 Coin Details Page: Users can click on a specific cryptocurrency to view more detailed information about that particular coin. 
+![2](https://github.com/abdulnasir97/DigiCurrencies-Learning-Project/assets/120065583/bba19005-f5c1-4912-86b1-424776d8ac8c)
+
+
 
 Navigation Bar: The app includes a navigation bar component (Nav) to provide a user-friendly interface for navigating between different sections of the application.
 
